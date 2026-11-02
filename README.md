@@ -20,6 +20,9 @@ Not public, but happy to talk about it.
 My self-hosted setup, running on **k3s** (lightweight Kubernetes) and provisioned
 with **Ansible**, so the whole thing is reproducible from code.
 
+### 🌐 [qdraw.nl](https://qdraw.nl)
+My personal website, built with plain **HTML** and **WordPress**.
+
 ## Also on my profile
 
 - 🧠 [tensorflow-face-object-detector-tutorial](https://github.com/qdraw/tensorflow-face-object-detector-tutorial)
@@ -39,7 +42,6 @@ with **Ansible**, so the whole thing is reproducible from code.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![k3s](https://img.shields.io/badge/k3s-FFC61C?logo=k3s&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Find me
 
